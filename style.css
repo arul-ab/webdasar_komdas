@@ -19,14 +19,16 @@
   color: white;
   padding: 0px 15px 0px 15px;
   font-weight: bold;
+  font-size: 20px;
 }
 
 .logo {
   float: left;
   margin-left: 30px;
-  margin-top: 18px;
+  margin-top: 5px;
   color: white;
   font-family: cursive;
+  font-size: 25px;
 }
 .menu {
   float: right;
@@ -37,12 +39,12 @@
   color: brown;
 }
 .layar1 {
-  background-image: url("./img/pexels-life-of-pix-7919.jpg");
+  background-image: url("./img/toko-komputer.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
-  height: 550px;
+  height: 100%;
   text-align: center;
 }
 .layar1 img {
@@ -54,11 +56,11 @@
 .layar1 h1 {
   margin-top: 10px;
   color: yellow;
-  text-shadow: 3px 2px 1px black;
+  text-shadow: 5px 5px 4px black;
   font-size: 40px;
 }
 .layar1 h3 {
-  color: white;
+  color: yellow;
   margin-top: 20px;
   margin-bottom: 20px;
 }
