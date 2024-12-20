@@ -88,13 +88,13 @@
 }
 .layar2 h1 {
   color: #fff;
-  padding-top: 0px;
+  padding-top: 50px;
 }
 .box-produk {
     display:grid;
     justify-content: center;
     grid-template-columns: repeat(2,500px);
-    padding-top: 200px;
+    padding-top: 30px;
 }
 .box-produk img {
   height: 300px;
