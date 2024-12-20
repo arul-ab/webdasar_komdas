@@ -39,7 +39,7 @@
   color: brown;
 }
 .layar1 {
-  background-image: url("./img/toko-komputer.jpg");
+  background-image: url("./img/unnamed.jpg");
   background-repeat: no-repeat;
   background-position: center;
   
@@ -96,17 +96,17 @@
     grid-template-columns: repeat(2,500px);
     padding-top: 200px;
 }
-.box-produk image {
-  height: 30px;
+.box-produk img {
+  height: 300px;
 }
 .box-produk p {
   font-size: 30px;
   color: white;
 }
 .pc img {
-  height: 300px;
+ 
 }
 .laptop img {
-  height: 300px;
+  
 }
 
