@@ -42,7 +42,7 @@
   background-image: url("./img/toko-komputer.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed;
+  
   background-size: cover;
   height: 950px;
   text-align: center;
@@ -71,5 +71,42 @@
   background-color: #070707;
   color: #fff;
   opacity: 0.8;
+}
+.pc img {
+  height: 300px;
+  width: ;
+}
+
+.layar2 {
+  background-image: url("./img/room-8779510_1280.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 950px;
+  text-align: center;
+  padding: 100px 10px 20px 10px;
+}
+.layar2 h1 {
+  color: #fff;
+  padding-top: 0px;
+}
+.box-produk {
+    display:grid;
+    justify-content: center;
+    grid-template-columns: repeat(2,500px);
+    padding-top: 200px;
+}
+.box-produk image {
+  height: 30px;
+}
+.box-produk p {
+  font-size: 30px;
+  color: white;
+}
+.pc img {
+  height: 300px;
+}
+.laptop img {
+  height: 300px;
 }
 
