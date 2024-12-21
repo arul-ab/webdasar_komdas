@@ -42,7 +42,7 @@
   background-image: url("./img/unnamed.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  
+
   background-size: cover;
   height: 950px;
   text-align: center;
@@ -58,12 +58,10 @@
   margin-top: 10px;
   color: black;
   font-size: 40px;
-  background-color: 
   background-color: #000;
   color: #fff;
 }
 .layar1 h3 {
-  color: ;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -74,7 +72,6 @@
 }
 .pc img {
   height: 300px;
-  width: ;
 }
 
 .layar2 {
@@ -91,10 +88,10 @@
   padding-top: 50px;
 }
 .box-produk {
-    display:grid;
-    justify-content: center;
-    grid-template-columns: repeat(2,500px);
-    padding-top: 30px;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(2, 500px);
+  padding-top: 30px;
 }
 .box-produk img {
   height: 300px;
@@ -103,10 +100,3 @@
   font-size: 30px;
   color: white;
 }
-.pc img {
- 
-}
-.laptop img {
-  
-}
-
